@@ -11,6 +11,6 @@ public class Singleton {
             obj=new Singleton();
         return obj;
     }
-    
+    system.out.print("hi");
 
 }
