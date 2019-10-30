@@ -3,7 +3,7 @@ package com.java2novice.model;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement(name = "person")
-public class Person {
+public class Person1 {
 	private String name;
 	private int age;
 	private int id;
